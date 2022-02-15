@@ -1,17 +1,17 @@
-### NodeJS CRUD application with MongoDB connection
+# NodeJS CRUD application with MongoDB connection
 
-### GET
+## GET
 
-## Get User details -> /api/v1/users
+#### Get User details --- /api/v1/users
 
-### POST
+## POST
 
-## Set User details -> /api/v1/users
+#### Set User details --- /api/v1/users
 
-### PUT
+## PUT
 
-## Update User details -> /api/v1/users/id
+#### Update User details --- /api/v1/users/id
 
-### DELETE
+## DELETE
 
-## Delete User details -> /api/v1/users/id
+#### Delete User details --- /api/v1/users/id
